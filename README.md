@@ -14,6 +14,6 @@ We are going to cover:
 TODO:
 
 * add formative exercises
-* add a summative exercise
+* add a summative assesment (for example, implement [Quantile normalization](https://en.wikipedia.org/wiki/Quantile_normalization))
 * add [learning objectives](https://swcarpentry.github.io/instructor-training/07-design.html)
 * decide whether to use jupyter notebook or command line
